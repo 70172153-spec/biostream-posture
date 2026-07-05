@@ -1,3 +1,2 @@
 streamlit-webrtc
 ultralytics
-opencv-python-headless==4.8.0.76
